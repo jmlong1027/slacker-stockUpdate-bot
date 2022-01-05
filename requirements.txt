@@ -1,0 +1,2 @@
+yfinance~=0.1.63
+stockquotes~=2.0.1
